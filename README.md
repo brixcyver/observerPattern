@@ -1,1 +1,1 @@
-# Real-time News Subscription Service: News Patrol
+## Real-time News Subscription Service: NEWS PATROL

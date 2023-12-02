@@ -36,9 +36,8 @@ public class NewsPatrol {
         System.out.println();
         System.out.println("News agency setup complete. Publishing news...");
 
-        newsAgency.publishNews("Dollar to Peso exchange rate");
-        newsAgency.publishNews("China's Pneumonia Outbreak Update");
+        newsAgency.publishNews("Dollar to Peso exchange rate reached it's all time high!");
+        newsAgency.publishNews("China's Pneumonia Outbreak Update, patient's number still racking up!");
 
-        scanner.close();
     }
 }
